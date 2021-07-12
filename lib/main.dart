@@ -20,7 +20,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(
         title: Text('Expense Manager'),
       ),
-      body: Column(
+      body: ListView(
         children: [
           Container(
             width: double.infinity,
