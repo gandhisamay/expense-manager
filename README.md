@@ -4,8 +4,14 @@ As we all know, with every passing day, my expenditure kept on increasing :no_mo
 ## Usage
 It has a very simple user interface, which everyone can use and save money and save themselves too from their mom's anger :innocent:
 
-### Running on Desktop/Laptop
-**Requires Flutter and Emulator**
+## Running on Desktop/Laptop
+
+### Requirements
+1)Requires flutter installed.
+
+2)Android or Ios emulator.
+### Installation
+
 * Clone the repository
 
  ~~~~
@@ -19,5 +25,4 @@ git clone https://github.com/gandhisamay/expense-manager.git
 cd 'expense manager'
 flutter run --release
 ~~~~
-## License
-Everyone is free to use it.
+Made with :sparkling_heart: by [Samay Gandhi](https://github.com/gandhisamay.com)
